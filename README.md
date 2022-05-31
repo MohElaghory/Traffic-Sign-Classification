@@ -12,7 +12,7 @@ We'll Scraping the 5 categories of traffic signs from google then save each one 
 The dataset contains less than 1000 images of five types of traffic signs. It is further classified into 5 different classes. The dataset is high varying, some of the classes have many images while some classes have few images. 
 
 #### **Content**
-**Note**   The Accuracy is not good due to lack of data, but just here I want to proof of concept, not more.
+**`Note`**   the Accuracy is not good due to lack of data, but just here I want to proof of concept, not more.
 
 { 'stop trafic sign' -> 0,
 
